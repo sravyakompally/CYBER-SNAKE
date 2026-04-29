@@ -1,0 +1,6 @@
+{
+  "name": "Neon Snake Radio",
+  "description": "A dark neon stylized retro Snake game combined with a background AI music player.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
